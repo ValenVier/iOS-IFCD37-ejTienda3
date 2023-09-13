@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Producto" representedClassName="Producto" syncable="YES">
+        <attribute name="precio" optional="YES" attributeType="String"/>
+        <attribute name="producto" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Producto" positionX="-63" positionY="-18" width="128" height="73"/>
+    </elements>
+</model>
